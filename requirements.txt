@@ -1,0 +1,6 @@
+streamlit- Aapki Python script ko ek web app mein convert karta hai — bina HTML/JS likhe!
+pymupdf - PDF files ko read ya unse text extract karne ke liye
+spacy - Ek NLP (Natural Language Processing) library hai — text ka analysis aur understanding ke liye.
+scikit-learn - Machine learning ke liye — training, prediction, clustering, etc.
+joblib - ML models ko save aur load karne ke liye (faster than pickle).
+pandas - Structured data ko handle karne ke liye — rows & columns format (DataFrame).
